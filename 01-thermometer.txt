@@ -1,0 +1,30 @@
+1. Kamu adalah seorang mahasiswa IT yang baru memulai perjalanan, kemudian kamu juga sudah belajar tentang adanya pseudocode. Kemudian dosenmu memmberikan sebuah tugas untuk membuat sebuah pseudocode tentang cara kerja sebuah thermometer yang akan merubah semua jenis suhu menjadi celcius.
+
+Berikut adalah 3 cara konversi suhu ke dalam celcius:
+fahrenheit to celcius = (N - 32) * (5/9)
+kelvin to celcius = (N - 273.15)
+celcius to celcius = N
+
+Jawab :
+
+START
+
+F { Farenheit, Input }
+C { Celcius, Input, Output }
+K { Kelvin }
+
+Input F
+Input C
+
+WHILE 
+
+	F = (F - 32) * (5/9)
+	K = (K - 273.15)
+	C = (C - 273.15)
+
+Print(F = 30C )
+Print(K = 45C ) 
+
+END
+
+
